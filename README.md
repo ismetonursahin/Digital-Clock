@@ -1,2 +1,9 @@
-# Digital-Clock
-digital-clock
+# DIGITAL CLOCK
+
+## SAYFA AÇILDIĞINDA GÖZÜKEN GÖRSEL
+
+![1](1.png)
+
+## MOUSE İLE ÜZERİNE GİDİLDİĞİNDE
+
+![2](2.png)
